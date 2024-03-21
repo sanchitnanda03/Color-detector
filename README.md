@@ -1,4 +1,4 @@
-# Colour-detector
+# Color-detector
 The Color Change Detector is a Python application that detects the color of a pixel within an image and provides its RGB values and color name upon hovering the cursor over that point.
 ## Overview
 
@@ -25,7 +25,7 @@ To use the Color Change Detector:
 
 1. Clone or download the repository to your local machine.
 
-2. Open the Python script (`color_change_detector.py`) in your preferred Python IDE or text editor.
+2. Open the Python script (`color_detection.py`) in your preferred Python IDE or text editor.
 
 3. Ensure that the file path to your image is correctly entered in the script.
 
